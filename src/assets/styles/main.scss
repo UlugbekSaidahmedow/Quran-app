@@ -1,0 +1,15 @@
+@import "fonts.scss";
+@import "root.scss";
+@import "common.scss";
+
+// layouts
+@import "@/layouts/header/headerLayout.scss";
+// layouts
+
+// components
+@import "@/components/navbar/navbar.scss";
+@import "@/components/card/ayah/ayah.scss";
+// components
+// views
+@import "@/views/intro/introView.scss";
+// views
